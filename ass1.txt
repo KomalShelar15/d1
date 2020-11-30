@@ -11,4 +11,5 @@
 11. Execute commands for checking the git status while doing operations
 12. Execute log commands for git
 13. Delete the github branch where the changes are made
+end
 
