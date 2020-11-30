@@ -1,0 +1,14 @@
+1. Initialize your local git repository with working angular project
+2. Create github repository with your angular project name
+3. Setup a remote repository link with the local repository
+4. Push the project to remote repository without node_modules
+5. Create a branch in github 
+6. make some changes in component files
+7. Create pull request and merge it with master branch in remorte
+8. Pull the updated project into local repository
+9. install the dependencies
+10. Run the project and see if changes are reflecting.
+11. Execute commands for checking the git status while doing operations
+12. Execute log commands for git
+13. Delete the github branch where the changes are made
+
